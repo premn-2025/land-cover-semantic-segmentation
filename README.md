@@ -106,7 +106,6 @@ Land-Cover-Semantic-Segmentation-PyTorch/
 
 ## 📊 Dataset
 
-### LandCover.ai Dataset
 Download the dataset from:
 - 📁 [Kaggle](https://www.kaggle.com/datasets/adrienboulet/landcoverai)
 
